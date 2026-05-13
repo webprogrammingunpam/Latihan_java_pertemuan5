@@ -1,7 +1,7 @@
 ## JAVA
 
 [![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
-## 1. Membuat Aplikasi ➡️ “Sistem Data Pengguna”
+## 1. Membuat Aplikasi ➡️ “input Data Kontak Ke  database dan menampilkan nya”
 ## Apps Pendukung JAVA https://bit.ly/4cUUMBv
 ## Apps Xampp https://bit.ly/4wcpPA3
 ## Login PHPMYAMIN http://localhost/phpmyadmin
